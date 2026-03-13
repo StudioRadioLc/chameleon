@@ -26,4 +26,4 @@ Además, el Licenciante no autoriza en ningún caso el uso del software en aplic
 
 El Licenciante es el titular de los derechos de autor del Software, de todos sus derivados, del título y de los materiales que lo acompañan, los cuales son de su propiedad exclusiva.
 
-Todos los derechos de cualquier tipo que no se otorguen expresamente en esta Licencia quedan reservados íntegramente al Licenciante. No existen terceros beneficiarios de las promesas, obligaciones o declaraciones realizadas por el Licenciante en el presente documento.ns or representations made by the Licensor herein.
+Todos los derechos de cualquier tipo que no se otorguen expresamente en esta Licencia quedan reservados íntegramente al Licenciante. No existen terceros beneficiarios de las promesas, obligaciones o declaraciones realizadas por el Licenciante en el presente documento o representaciones realizadas por el Licenciante en el presente documento.
