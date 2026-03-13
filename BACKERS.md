@@ -1,14 +1,14 @@
-# Backers
+# Patrocinadores
 
-In the list below you can see all those who contributed financially to mantain the development of Salamandra. We are very grateful to everyone who has supported us during this journey!
+En la lista a continuación, pueden ver a todos los que contribuyeron económicamente al desarrollo de Salamandra. ¡Agradecemos enormemente a todos los que nos han apoyado durante este proceso!
 
-The information is extracted from payment receipts. If you are a backer and there is any missing or incorrect information, you can email us:
+La información se extrae de los recibos de pago. Si eres patrocinador y falta información o hay algún error, puedes escribirnos a:
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Last update at 30/10/2025 - 19:42.
+Última actualización: 30/10/2025 - 19:42.
 
-| Date | Name | Radio | Site |
+| Fecha | Nombres - Apellido | Radio | Sitio |
 | ---- | ---- | ----- | ---- |
 | 21/09/2022 | Martinho Oliveira |  |  |
 | 31/01/2023 | José Ferreira |  |  |
