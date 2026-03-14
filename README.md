@@ -1,11 +1,11 @@
 <<p align="center">
 
-<img alt="Salamandra" height="150" src="Readme/lizard.png"/>
+<img alt="Camaleón" height="150" src="web/favicon.png"/>
 </p>
 
 <p align="center">
 
-<b>Salamandra</b> es un software de automatización de radio para <b>Windows</b>.
+<b>Camaleón</b> es un software de automatización de radio para <b>Windows</b>.
 
 </p>
 
